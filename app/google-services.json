@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237762613092",
+    "project_id": "firestoredemo-7859c",
+    "storage_bucket": "firestoredemo-7859c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237762613092:android:68c5d75459c3c9a107b471",
+        "android_client_info": {
+          "package_name": "com.example.findaseat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMdnuN4o4BHAPOAzqxyxZ92KrzuwLa4Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
